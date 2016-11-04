@@ -1,0 +1,22 @@
+{
+  "name": "cherio-mongo",
+  "version": "1.0.0",
+  "description": "mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mason2232/cherio-mongo.git"
+  },
+  "keywords": [
+    "cherio"
+  ],
+  "author": "billy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mason2232/cherio-mongo/issues"
+  },
+  "homepage": "https://github.com/mason2232/cherio-mongo#readme"
+}
